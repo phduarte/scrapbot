@@ -1,6 +1,6 @@
 # scrapbot
 
-![scrapbot](https://github.com/phduarte/scrapbot/workflows/Python%20application/badge.svg)
+![Scrapbot Build](https://github.com/phduarte/scrapbot/workflows/Scrapbot%20Build/badge.svg)
 
 A scraping bot for search a given criteria on Google for education and test purpose and written in python. :)
 
