@@ -1,6 +1,7 @@
 # scrapbot
 
 ![Scrapbot Build](https://github.com/phduarte/scrapbot/workflows/Scrapbot%20Build/badge.svg)
+[![BCH compliance](https://bettercodehub.com/edge/badge/phduarte/scrapbot?branch=master)](https://bettercodehub.com/)
 
 A scraping bot for search a given criteria on Google for education and test purpose and written in python. :)
 
