@@ -9,15 +9,15 @@ The results of search will be recording in a plain-text file in same directory w
 
 ## usage
 
-``` python
-pip install selenium
-```
-
 - download the chromedriver.exe version equivalent to your chrome browser
+- install all dependecies
+``` python
+pip install -r requirements.txt
+```
 - set the `PATH` constant in `main.py` file with the current directory.
 - run `test.py` and enjoy!
 
 ## more info
 
-- [getting start with selenium](https://selenium-python.readthedocs.io/getting-started.html)
+- [getting started with selenium](https://selenium-python.readthedocs.io/getting-started.html)
 - [download chromedriver](https://chromedriver.chromium.org/downloads)
