@@ -3,9 +3,9 @@
 ![Scrapbot Build](https://github.com/phduarte/scrapbot/workflows/Scrapbot%20Build/badge.svg)
 [![BCH compliance](https://bettercodehub.com/edge/badge/phduarte/scrapbot?branch=master)](https://bettercodehub.com/)
 
-A scraping bot for search a given criteria on Google for education and test purpose and written in python. :)
+A scraping bot written in python to search a given term on Google. Just for education, test and fun! :)
 
-The results of search will be recording in a plain-text file in same directory with search used criteria name.
+The found results will be recorded in a plain-text file in same directory and containing the current term used as criteria on search.
 
 ## usage
 
@@ -13,8 +13,7 @@ The results of search will be recording in a plain-text file in same directory w
 - install all dependecies
 ``` python
 pip install -r requirements.txt
-```
-- set the `PATH` constant in `main.py` file with the current directory.
+```, - and fun!constant in `main.py` file with the current directory.
 - run `test.py` and enjoy!
 
 ## more info
