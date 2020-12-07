@@ -11,10 +11,12 @@ The found results will be recorded in a plain-text file in same directory and co
 
 - download the chromedriver.exe version equivalent to your chrome browser
 - install all dependecies
+
 ``` python
 pip install -r requirements.txt
-```, - and fun!constant in `main.py` file with the current directory.
-- run `test.py` and enjoy!
+```
+- check the constants in `main.py` file with the current directory.
+- run `test.py`
 
 ## more info
 
